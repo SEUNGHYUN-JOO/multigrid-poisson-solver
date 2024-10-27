@@ -41,7 +41,7 @@ const int FINE_MESH = 0;
 #define NUM_NODES 17
 
 //! Maximum number of multigrid cycles
-#define MG_CYCLES 20
+#define MG_CYCLES 40
 
 //! Flag for disabling multigrid (Disable MG = 1, Use MG = 0)
 #define DISABLE_MG 0
@@ -50,7 +50,7 @@ const int FINE_MESH = 0;
 #define NUM_SWEEP 3
 
 //! Choice of iterative smoother (see SMOOTHER_T above)
-#define SMOOTHER 2
+#define SMOOTHER 1
 
 //! Flag controlling whether to write Tecplot mesh/solution files (Yes=1,No=0)
 #define VISUALIZE 0
