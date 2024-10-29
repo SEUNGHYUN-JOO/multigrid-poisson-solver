@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/github/multigrid-poisson-solver",
-      "program": "c:/github/multigrid-poisson-solver/build/Debug/outDebug",
+      "program": "C:\\github\\multigrid-poisson-solver\\HW2\\prob2_4-level_V-cycle_MG_Point_Gauss-Seidel.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
